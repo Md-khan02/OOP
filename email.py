@@ -21,7 +21,7 @@ inbox = []
 def populate_inbox():
     inbox.append(Email("user1@example.com", "Welcome to HyperionDev!", "Congratulations on joining our platform."))
     inbox.append(Email("user2@example.com", "Great work on bootcamp!", "Your progress is impressive, Keep it up!."))
-    inbox.append(Email("user3@example.com", "Your excellant marks!", "Your recent submission was outstanding."))
+    inbox.append(Email("user3@example.com", "Your excellent marks!", "Your recent submission was outstanding."))
 
 # Function to list all emails in the index with their read status
 # with prints each email's subject line wirh a corresponding number.
