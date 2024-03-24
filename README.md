@@ -20,7 +20,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/md-khan02/email-simulator.git
+git clone https://github.com/Md-khan02/OOP/blob/main/email.py
 
 Navigate to the cloned directory:
 
@@ -52,7 +52,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Notes:
 
-Replace https://github.com/md-khan02/email-simulator.git with the actual URL of your GitHub repository.
+Replace https://github.com/Md-khan02/OOP/blob/main/email.py with the actual URL of your GitHub repository.
 If your project requires additional setup steps (dependencies to install, environment configuration), be sure to include those in the Installation section.
 Tailor the Features, Usage, and other sections to accurately represent what your project does and how it's used.
 If your project is under a different license, replace the License section with the appropriate details.
