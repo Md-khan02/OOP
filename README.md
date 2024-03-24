@@ -1,10 +1,10 @@
-Email Simulator
+# Email Simulator
 
-Overview
+# Overview
 
 This Python-based email simulator is an educational project designed to demonstrate the principles of Object-Oriented Programming (OOP). It simulates a simple email system where users can read emails, view unread emails, and populate an inbox with sample emails.
 
-Features
+# Features
 
 Read Emails: Users can select an email from the inbox to read, which will then mark the email as read.
 
@@ -12,7 +12,7 @@ View Unread Emails: Displays a list of all emails that have not been read yet.
 
 Sample Email Population: At startup, the inbox is populated with three sample emails to interact with.
 
-Installation
+# Installation
 
 To run the email simulator, you will need Python installed on your computer. This project was developed and tested with Python 3.8, but it should be compatible with most Python 3.x versions.
 
@@ -32,7 +32,7 @@ Run the program:
 Copy code
 python email.py
 
-Usage
+# Usage
 
 Upon running the program, you will be presented with a menu to choose from reading an email, viewing unread emails, or quitting the application. Select an option by entering the corresponding number:
 
@@ -42,11 +42,11 @@ View unread emails: Enter 2 and press Enter to see a list of unread emails.
 
 Quit application: Enter 3 and press Enter to exit the program.
 
-Contributing
+# Contributing
 
 Contributions to the email simulator are welcome! If you have suggestions for improvements or bug fixes, please open an issue or submit a pull request.
 
-License
+# License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
